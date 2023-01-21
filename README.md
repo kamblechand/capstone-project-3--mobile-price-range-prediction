@@ -50,4 +50,3 @@ The dataset consists of 2000 records.
 The dataset consists of 19 features.
 No null values were found
 No duplicate values were found
-180 invalid values were found for screen width
