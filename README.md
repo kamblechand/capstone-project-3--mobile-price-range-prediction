@@ -45,7 +45,7 @@ Wifi - Has wifi or not
 
 Price_range - This is the target variable with value of 0(low cost), 1(medium cost), 2(high cost) and 3(very high cost).
 
-Understanding Data
+UNDERSTANDING DATA:
 The dataset consists of 2000 records.
 The dataset consists of 19 features.
 No null values were found
